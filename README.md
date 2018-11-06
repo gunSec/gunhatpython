@@ -1,2 +1,2 @@
-# gunhatpython
-Scripts from Black Hat Python with tweaks
+# gunHatPython
+* Scripts from Black Hat Python with tweaks, here for backup purposes
